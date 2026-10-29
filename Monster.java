@@ -15,7 +15,12 @@ public class Monster {
 
     public static void main(String[] args) {
         Monster monster = new Monster("Goblin");
+        Monster monster2 = new Monster("Dragon");
+
+        Player player = new Player("Hero");
+        Player player2 = new Player("Warrior");
         monster.getMonsterName();
+        player.getPlayerName();
     }
     
 }
