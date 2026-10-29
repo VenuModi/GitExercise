@@ -1,3 +1,3 @@
 # GitExercise
-# MonsterArena - Lag A
+# MonsterArena – Lag A & B
 Exercise to understand how to work with Git commands
