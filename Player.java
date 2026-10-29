@@ -7,6 +7,7 @@ public class Player{
     }
 
     public String getPlayerName(){
+        System.out.println(playerName);
         return playerName;
     }
 }
